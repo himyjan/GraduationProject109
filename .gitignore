@@ -78,3 +78,7 @@ Secret/db/*.uasset
 
 /Secret/Content/Downtown_West/**
 /Secret/Content/StarterContent/**
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
