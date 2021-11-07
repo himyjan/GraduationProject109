@@ -41,10 +41,13 @@
 *.VC.db
 *.VC.opendb
 
-/*
-!/Secret/Content/**
 /Secret/Content/Downtown_West/**
 /Secret/Content/StarterContent/**
+/Secret/Build/**
+/Secret/DerivedDataCache/**
+/Secret/Intermediate/**
+/Secret/Saved/**
+/Secret/Script/**
 !/.gitignore
 !/.gitattributes
 !/README.md
