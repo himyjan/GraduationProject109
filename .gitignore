@@ -41,6 +41,7 @@
 *.VC.db
 *.VC.opendb
 
+!/**.uasset
 !/Secret/Content/**
 /Secret/Content/Downtown_West/**
 /Secret/Content/StarterContent/**
