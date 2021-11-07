@@ -41,6 +41,7 @@
 *.VC.db
 *.VC.opendb
 
+/Secret/Content/ModularBuildingSet/第五關_BuiltData.uasset
 /Secret/Content/Downtown_West/**
 /Secret/Content/StarterContent/**
 /Secret/Build/**
