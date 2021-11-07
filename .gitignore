@@ -76,6 +76,7 @@ Secret/DerivedDataCache/*
 # 忽略所有 db 目錄下附檔名是 .sqlite3 的檔案
 Secret/db/*.uasset
 
+!/Secret/Content
 /Secret/Content/Downtown_West/**
 /Secret/Content/StarterContent/**
 /*
