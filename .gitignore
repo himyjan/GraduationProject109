@@ -51,3 +51,6 @@
 !/.gitignore
 !/.gitattributes
 !/README.md
+*.zip
+*.rar
+*.7z
