@@ -41,7 +41,7 @@
 *.VC.db
 *.VC.opendb
 
-!/Secret/Content
+!/Secret/Content/**
 /Secret/Content/Downtown_West/**
 /Secret/Content/StarterContent/**
 /**
